@@ -143,6 +143,12 @@ public class Rishi {
 
 <img src="https://leetcard.jacoblin.cool/_BAKI_HANMA?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
 
+<br/>
+
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-50.gif" alt="50 Days Badge 2025" width="80" />
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-100.gif" alt="100 Days Badge 2025" width="80" />
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2026/gif/2026-50.gif" alt="50 Days Badge 2026" width="80" />
+
 </div>
 
 - 200+ problems solved on LeetCode, all in **Java**
