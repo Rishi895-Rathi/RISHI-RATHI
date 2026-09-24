@@ -127,7 +127,6 @@ public class Rishi {
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rishi895-Rathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rishi895-Rathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 <br/>
 
