@@ -65,7 +65,7 @@ public class Rishi {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" alt="Languages" />
 
 **Backend & Databases**
 
@@ -83,7 +83,7 @@ public class Rishi {
 
 | Area | Skills |
 | --- | --- |
-| Core | Java, OOP, Data Structures and Algorithms, Collections, Multithreading basics |
+| Core | Java, Python, OOP, Data Structures and Algorithms, Collections, Multithreading basics |
 | Backend | Spring Boot, Spring Security, JWT Authentication, REST APIs, Hibernate / JPA |
 | Databases | PostgreSQL, MongoDB, MySQL |
 | Architecture | DTO-based layering, Monolithic architecture, Validation and Exception Handling |
@@ -122,7 +122,15 @@ public class Rishi {
 
 ---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rishi895-Rathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ## 🧩 Competitive Programming
 
