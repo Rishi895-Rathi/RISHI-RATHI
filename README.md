@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rishi895-Rathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://hits.sh/github.com/Rishi895-Rathi.svg?style=flat-square&label=Profile%20Views&color=0e75b6&labelColor=203a43" alt="Profile Views" />
 
 </div>
 
