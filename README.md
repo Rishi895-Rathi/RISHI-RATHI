@@ -145,9 +145,9 @@ public class Rishi {
 
 <br/>
 
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-50.gif" alt="50 Days Badge 2025" width="80" />
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-100.gif" alt="100 Days Badge 2025" width="80" />
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2026/gif/2026-50.gif" alt="50 Days Badge 2026" width="80" />
+<a href="https://leetcode.com/u/_BAKI_HANMA/">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=_BAKI_HANMA&theme=dark" alt="LeetCode Badges" />
+</a>
 
 </div>
 
