@@ -122,19 +122,7 @@ public class Rishi {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rishi895-Rathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Rishi895-Rathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🧩 Competitive Programming
 
@@ -156,15 +144,7 @@ public class Rishi {
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi895-Rathi&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
